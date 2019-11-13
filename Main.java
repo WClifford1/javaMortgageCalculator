@@ -9,7 +9,7 @@ public class Main {
     // Principle: 100000
     // Annual Interest Rate: 3.92
     // Period (Years): 30
-    // Mortgage: $472.81
+    // Mortgage: $325.67
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -38,6 +38,6 @@ public class Main {
 
         String result = NumberFormat.getCurrencyInstance().format(mortgage);
 
-        System.out.println(result);
+        System.out.println("Your monthly repayments will be: " + result);
     }
 }
