@@ -1,5 +1,5 @@
 ### First Java Program
 
-<p>Very simple mortgage calculator</p>
+<p>Mortgage calculator from https://codewithmosh.com/ tutorial.</p>
 
-<p>Gets the principle, annual interest rate and period in years and returns the monthly repayment amount.</p>
+<p>Users enter the principle, annual interest rate and period in years and are returned the monthly repayment amount.</p>
